@@ -40,15 +40,15 @@ Here are some of my favorite projects. Click to learn more:
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=derrickSh43&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickSh43&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/derrick-weil-11726253/))
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://youtube.com/yourchannel)
 [![Twitter](https://img.shields.io/badge/Twitter-Handle-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
 
@@ -65,4 +65,4 @@ Have questions or opportunities? Feel free to reach out at **[your-email@example
 ---
 
 <!-- Add your profile visitor badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=derrickSh43&color=blue&style=flat-square)
